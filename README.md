@@ -8,6 +8,16 @@ from the Fashion MNIST dataset using TensorFlow.
 - Step-by-step TensorFlow pipeline
 - Beginner-friendly & educational
 
+##  Dataset Samples
+![Dataset Samples](images/dataset_samples.png)
+
+##  Training Accuracy
+![Accuracy](images/training_accuracy.png)
+
+##  Training Loss
+![Loss](images/training_loss.png)
+
+
 ##  Technologies
 - TensorFlow
 - TensorFlow Datasets
@@ -17,3 +27,4 @@ from the Fashion MNIST dataset using TensorFlow.
 ##  How to Run
 ```bash
 pip install -r requirements.txt
+
